@@ -22,7 +22,3 @@ Make sure you have Go installed on your machine.
 5. WhatsApp will be opened with the specified phone number and message. 
 
 6. After successfully opening WhatsApp, you will see the message "Yeay, berhasil membuka WhatsApp!" printed in the terminal.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
